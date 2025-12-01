@@ -140,7 +140,6 @@
     /* 체크리스트 6항목 */
     const checklistTemplate=[
       { key:'head_guard',   label:'헤드가드',           method:'헤드가드는 정상적으로 설치되고 변형 등의 이상이 없을 것',                 refImg:'헤드가드.png' },
-      { key:'rear_camera',  label:'후방카메라',         method:'후방 감시카메라의 모니터 등 작동에 문제가 없을 것',                     refImg:'카메라.png' },
       { key:'mirror_alarm', label:'후사경, 후진경보기', method:'후사경은 정상 부착되고 후진 경보장치는 정상적으로 작동될 것',            refImg:'후방.png' },
       { key:'cab',          label:'운전석',             method:'좌석안전띠 부착 및 시야확보 확인할 것',                                 refImg:'벨트.png' },
       { key:'lamps',        label:'각종 등화류',        method:'전조ㆍ후미ㆍ경보등의 기능은 정상작동 될 것',                              refImg:'전조등.png' },
